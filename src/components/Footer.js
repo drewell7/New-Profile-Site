@@ -1,6 +1,6 @@
 import '../App.css';
 
-function Footer () {
+function Footer() {
   return (
     <div className='footer'>
       Footer
